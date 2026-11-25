@@ -21,7 +21,7 @@ REDDİT ; ?
 It would be even better if you could include a screenshot from the game along with your feedback
 
 
-Information about the different versions
+Information about the different versions (The mobile controller designs were made with AI. "hylics.apk and hylics_b.apk")
 
 Hylics.apk: The main design I originally had in mind for the port.
 
