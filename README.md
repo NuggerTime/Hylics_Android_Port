@@ -11,18 +11,13 @@ This port is based on JoiPlay's RPG Maker player (mkxp engine)
 The game is currently available in English only.
 I'm still working on adding translations, so no additional languages are included in the port yet.
 
-I haven't fully tested the game myself. I've only had a general look around to see how it runs.
+I haven't fully tested the game myself. I've only done a quick playthrough/check to see how it runs.
 
-ABOUT Hylics_clear.apk ;
-
-On some phones with camera notches, a black bar may appear along the edge of the screen. This is not caused by the app itself, but by your phone's notch settings.
-Look for an option called "Notch", "Display Cutout", or "Full-screen Apps" in your phone's settings, and configure it to allow the game to use the area around the notch.
-The exact name and location of this setting may vary depending on your phone's manufacturer and Android version.
-This issue should not occur on tablets or phones without a camera notch.
 
 
 If you install the port and finish or play through the game, I'd appreciate it if you could share your experience in the Reddit post I've linked
 REDDİT ; ?
+
 It would be even better if you could include a screenshot from the game along with your feedback
 
 
@@ -39,6 +34,15 @@ Hylics_Handheld.apk: Recommended for playing the port on Android-based handheld 
 On-screen controls are disabled. Fullscreen patch is applied.
 Note: The game does not have proper native gamepad support, so you may encounter some unusual behavior with the controls.
 I've made some adjustments to improve gamepad compatibility, but I haven't been able to test them yet.
+
+
+ABOUT Hylics_clear.apk:
+
+On some phones with camera notches, a black bar may appear along the edge of the screen. This is not caused by the app itself, but by your phone's notch settings.
+Look for an option called "Notch", "Display Cutout", or "Full-screen Apps" in your phone's settings, and configure it to allow the game to use the area around the notch.
+The exact name and location of this setting may vary depending on your phone's manufacturer and Android version.
+This issue should not occur on tablets or phones without a camera notch.
+
 
 
 
