@@ -2,7 +2,9 @@
 
 ![game](IMG_a8289c1c-1826-415c-b96b-46f6e53fea0f.jpg)
 
+(This is an unofficial port. If you enjoy the game, please consider supporting the original game❤️)
 
+Official game : https://store.steampowered.com/app/397740/Hylics/
 
 
 The purpose of this port is to make Hylics playable on Android devices
@@ -12,13 +14,7 @@ The game is currently available in English only.
 I'm still working on adding translations, so no additional languages are included in the port yet.
 
 I haven't fully tested the game myself. I've only done a quick playthrough/check to see how it runs.
-
-
-
-If you install the port and finish or play through the game, I'd appreciate it if you could share your experience in the Reddit post I've linked
-REDDİT ; ?
-
-It would be even better if you could include a screenshot from the game along with your feedback
+So please leave feedback for any issues or suggestions
 
 
 Information about the different versions (The mobile controller designs were made with AI. "hylics.apk and hylics_b.apk")
